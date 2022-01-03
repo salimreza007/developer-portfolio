@@ -1,0 +1,12 @@
+body {
+  font-family: "JetBrains Mono", monospace;
+}
+h1 {
+  font-size: 30px;
+}
+.orange-color {
+  color: orange;
+}
+section {
+  display: flex;
+}
